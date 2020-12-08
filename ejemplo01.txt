@@ -9,14 +9,13 @@
 8.  notasEstudiantes[5] <-- 10
 9.  notasEstudiantes[6] <-- 8
 10. Escribir notasEstudiantes[0]
-10. Escribir notasEstudiantes[1]
-10. Escribir notasEstudiantes[2]
-10. Escribir notasEstudiantes[3]
-10. Escribir notasEstudiantes[4]
-10. Escribir notasEstudiantes[5]
-10. Escribir notasEstudiantes[6]
-10. Escribir notasEstudiantes[7]
-11. Fin
+11. Escribir notasEstudiantes[1]
+12. Escribir notasEstudiantes[2]
+13. Escribir notasEstudiantes[3]
+14. Escribir notasEstudiantes[4]
+15. Escribir notasEstudiantes[5]
+16. Escribir notasEstudiantes[6]
+17. Fin
 
 
 

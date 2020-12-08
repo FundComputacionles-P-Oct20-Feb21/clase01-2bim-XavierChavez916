@@ -10,10 +10,10 @@
 9.  notasEstudiantes[7] <-- 8 // error no se puede agregar valor; 
                             // no hay posición 7 en el arreglo
 10. Escribir notasEstudiantes[0] + notasEstudiantes[2]
-10. Escribir notasEstudiantes[1] + notasEstudiantes[6]
-10. Escribir notasEstudiantes[4+1] + notasEstudiantes[1+1]
-10. Escribir notasEstudiantes[2-1] + notasEstudiantes[3+3]
-11. Fin
+11. Escribir notasEstudiantes[1] + notasEstudiantes[6]
+12. Escribir notasEstudiantes[4+1] + notasEstudiantes[1+1]
+13. Escribir notasEstudiantes[2-1] + notasEstudiantes[3+3]
+14. Fin
 
 
 
